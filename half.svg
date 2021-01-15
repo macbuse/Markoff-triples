@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="864pt" version="1.1" viewBox="0 0 864 864" width="864pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 864 
+L 864 864 
+L 864 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path clip-path="url(#p80c8ee431a)" d="M 231.968636 582.021818 
+L 220.253641 521.327357 
+L 217.643648 506.969701 
+L 212.580835 466.912236 
+L 217.643648 431.917583 
+L 222.804429 409.168155 
+L 227.78373 388.507175 
+L 231.968636 371.190454 
+L 276.612912 360.439034 
+L 292.695765 356.865466 
+L 327.690418 351.802654 
+L 367.747883 356.865466 
+L 395.658092 362.026247 
+L 421.298373 367.005548 
+L 464.301627 388.507175 
+L 506.54307 422.664144 
+L 517.852117 431.917583 
+L 557.909582 466.912236 
+L 592.904235 506.969701 
+L 618.293623 538.148413 
+L 653.631364 582.021818 
+L 653.631364 582.021818 
+" style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#p80c8ee431a)" d="M 442.8 582.021818 
+L 442.8 277.658182 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:1.5;"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#p80c8ee431a)" d="M 138.436364 582.021818 
+L 747.163636 582.021818 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-width:1.5;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p80c8ee431a">
+   <rect height="334.8" width="669.6" x="108" y="262.44"/>
+  </clipPath>
+ </defs>
+</svg>
